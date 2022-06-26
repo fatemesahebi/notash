@@ -84,8 +84,7 @@ function MainLayout(props) {
 
 
 
-    return
-    (
+    return(
     <>
         {(userInfo && userInfo!=={})?
             <Box
